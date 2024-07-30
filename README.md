@@ -61,6 +61,7 @@ Features: Bar charts showing the least-performing products.
 
 Purpose: Enhance user interaction by allowing the filtering of data by date, product category, or other relevant criteria.
 Features: Interactive slicers and drop-down lists for customizable data views.
+
 **Dynamic Dashboards:**
 
 Purpose: Provide a flexible and user-friendly interface for exploring sales data.
